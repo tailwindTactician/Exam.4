@@ -1,0 +1,14 @@
+C:\Users\mardin\Desktop\last.exam.4\TAsk4\bin\Debug\net9.0\Task4.exe
+C:\Users\mardin\Desktop\last.exam.4\TAsk4\bin\Debug\net9.0\Task4.deps.json
+C:\Users\mardin\Desktop\last.exam.4\TAsk4\bin\Debug\net9.0\Task4.runtimeconfig.json
+C:\Users\mardin\Desktop\last.exam.4\TAsk4\bin\Debug\net9.0\Task4.dll
+C:\Users\mardin\Desktop\last.exam.4\TAsk4\bin\Debug\net9.0\Task4.pdb
+C:\Users\mardin\Desktop\last.exam.4\TAsk4\obj\Debug\net9.0\Task4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mardin\Desktop\last.exam.4\TAsk4\obj\Debug\net9.0\Task4.AssemblyInfoInputs.cache
+C:\Users\mardin\Desktop\last.exam.4\TAsk4\obj\Debug\net9.0\Task4.AssemblyInfo.cs
+C:\Users\mardin\Desktop\last.exam.4\TAsk4\obj\Debug\net9.0\Task4.csproj.CoreCompileInputs.cache
+C:\Users\mardin\Desktop\last.exam.4\TAsk4\obj\Debug\net9.0\Task4.dll
+C:\Users\mardin\Desktop\last.exam.4\TAsk4\obj\Debug\net9.0\refint\Task4.dll
+C:\Users\mardin\Desktop\last.exam.4\TAsk4\obj\Debug\net9.0\Task4.pdb
+C:\Users\mardin\Desktop\last.exam.4\TAsk4\obj\Debug\net9.0\Task4.genruntimeconfig.cache
+C:\Users\mardin\Desktop\last.exam.4\TAsk4\obj\Debug\net9.0\ref\Task4.dll
